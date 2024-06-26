@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🛠️ Habilidades Técnicas
 
-<!--
-**MarlonRaphael/marlonraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Linguagens de Programação:**
+  - PHP
+  - JavaScript
+  - HTML5
+  - CSS3
 
-Here are some ideas to get you started:
+- **Frameworks e Bibliotecas:**
+  - Laravel
+  - Vue.js
+  - CodeIgniter 4
+  - Bootstrap 5
+  - PHPUnit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Contato
+
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marlonraphael/))
+- [Email](marlon.raphaael@hotmail.com)
+
+---
+
