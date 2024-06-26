@@ -15,8 +15,8 @@
 
 ## 🌐 Contato
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marlonraphael/))
-- [Email](marlon.raphaael@hotmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil]https://www.linkedin.com/in/marlonraphael/)
+- [E-mail](marlon.raphaael@hotmail.com)
 
 ---
 
